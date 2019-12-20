@@ -6367,7 +6367,7 @@ var $author$project$Main$main = $elm$browser$Browser$document(
 					[
 						$author$project$Main$viewSplash(model)
 					]),
-				title: 'Elm - A delightful language for reliable webapps'
+				title: '<3'
 			};
 		}
 	});
